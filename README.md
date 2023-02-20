@@ -1,1 +1,1 @@
-Python note for beginer 
+Python note for beginner 
